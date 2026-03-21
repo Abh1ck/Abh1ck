@@ -18,13 +18,12 @@
 - 📫 Reach me at **abhishekkumaramba89@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QjJZLq5u845J3eKSFceGbqpX03zaR46M/view?usp=sharing)
 - ⚡ Fun fact **I think I'm BUSY/Funny 😄**
-
 <br clear="right"/>
 
 <!-- Trophy Section -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=abh1ck&margin-w=10&no-bg=true&no-frame=true" alt="abh1ck" />
-</a>
+</a> -->
 
 <!-- Social Links -->
 <h3 align="left">Connect with me:</h3>
