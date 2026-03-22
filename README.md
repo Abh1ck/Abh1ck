@@ -59,10 +59,10 @@
 <!-- GitHub Stats -->
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abh1ck&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/abh1ck)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abh1ck&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/abh1ck)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abh1ck&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=abh1ck&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800" />
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abh1ck&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=fff&sideNums=fff)](https://github.com/abh1ck)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abh1ck&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=fff&sideNums=fff&cache_seconds=1800" />
 
 </div>
 
